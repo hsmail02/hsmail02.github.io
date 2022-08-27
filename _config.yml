@@ -12,7 +12,7 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "ko-KR"
@@ -106,7 +106,7 @@ analytics:
 author:
   name             : "Hyunsu Go"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Seoul National University\n**Mechanical Engineering**\nComputer Science & Engineering\nIntelligent Communications\nEconomics"
+  bio              : "I'm majoring in **Mechanical Engineering**, **Computer Science & Engineering**, **Intelligent Communications** and **Economics** at **Seoul National University**."
   location         : "Seoul, Korea"
   email            :
   links:
