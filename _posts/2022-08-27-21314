@@ -1,0 +1,25 @@
+---
+layout: single
+title: "21314번: 민겸 수"
+---
+
+##python
+
+```python
+n = list(input())
+min_ = ''
+max_ = ''
+cnt = 0
+for ch in n:
+    if ch == 'K':
+        max_ += '5' + '0' * cnt
+        min_ += '5'
+        cnt = 0
+    elif ch == 'M':
+        min_ += '0' if cnt else '1'
+        cnt += 1
+if n[-1] == 'M':
+    max_ += '1' * cnt
+print(max_)
+print(min_)
+```
