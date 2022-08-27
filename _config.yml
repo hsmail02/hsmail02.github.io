@@ -106,7 +106,7 @@ analytics:
 author:
   name             : "Hyunsu Go"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I'm majoring in **Mechanical Engineering**, **Computer Science & Engineering**, **Intelligent Communications** and **Economics** at **Seoul National University**."
+  bio              : "I'm majoring in **Mechanical Engineering** / Computer Science & Engineering / Intelligent Communications / Economics at **Seoul National University**."
   location         : "Seoul, Korea"
   email            :
   links:
