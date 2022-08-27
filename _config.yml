@@ -15,7 +15,7 @@
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "ko-KR"
+locale                   : "en-US"
 title                    : "LazyGuma's happy blog"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
@@ -105,7 +105,7 @@ analytics:
 # Site Author
 author:
   name             : "Hyunsu Go"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/bio-photo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I'm majoring in **Mechanical Engineering** / Computer Science & Engineering / Intelligent Communications / Economics at **Seoul National University**."
   location         : "Seoul, Korea"
   email            :
