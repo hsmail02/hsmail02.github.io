@@ -1,0 +1,11 @@
+---
+layout: post
+title: "1152번: 단어의 개수"
+---
+
+## python
+```python
+words = input().split(' ')
+words = [word for word in words if word]
+print(len(words))
+```
