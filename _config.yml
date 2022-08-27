@@ -112,7 +112,7 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "hsmail02@snu.ac.kr"
+      url: "mailto:hsmail02@snu.ac.kr"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://www.youtube.com/c/구마의해피로그HAPPYGUMA"
